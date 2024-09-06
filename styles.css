@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow: hidden;
+    color: white;
+    background: rgb(114, 114, 114);
+}
+
+h1 {
+    background: #ffffff;
+    background-clip: text;
+    padding-left: 12.5%;
+}
+
+h2 {
+    background: #ffffff;
+    background-clip: text;
+    text-decoration: underline;
+}
+
+.container {
+    width: 100%;
+    background: rgb(65, 65, 65);
+}
+
+.ancilia
+{
+    width: auto;
+    padding-left: 50px;
+    background: rgb(150, 150, 150);
+    width: 50vw;
+    height: 20vw;
+}
+
+.ancilia *
+{
+    padding-left: 20px;
+}
+
+.uniProject
+{
+    width: 100%;
+    padding-left: 50px;
+    background: rgb(150, 150, 150);
+    width: 50vw;
+    height: 20vw;
+}
